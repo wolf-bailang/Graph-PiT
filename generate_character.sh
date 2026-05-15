@@ -1,0 +1,1 @@
+python ./scripts/generate_characters.py
