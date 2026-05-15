@@ -1,0 +1,4 @@
+prior_path: training_results/train_character/prior.ckpt
+prior_repo: inference/Piece-it-Together
+crops_dir: assets/character
+output_dir: inference/character

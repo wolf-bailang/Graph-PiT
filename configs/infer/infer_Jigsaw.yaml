@@ -1,0 +1,4 @@
+prior_path: training_results/train_Jigsaw/prior.ckpt
+prior_repo: inference/Piece-it-Together
+crops_dir: assets/Jigsaw
+output_dir: inference/Jigsaw

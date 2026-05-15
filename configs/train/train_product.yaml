@@ -1,0 +1,6 @@
+dataset_path: './datasets/generated/product_train'
+val_dataset_path: './datasets/generated/product_val'
+output_dir: './training_results/train_product'
+train_batch_size: 4
+num_layers: 4
+max_crops: 8
